@@ -1,0 +1,5 @@
+print("Quel est ton nom? :")
+name = input()
+print("D'où viens-tu :")
+provenance = input()
+print(f"Ton nom es {name} et tu viens de {provenance}? Bienvenue à Cactusity bro")
