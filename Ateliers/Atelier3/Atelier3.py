@@ -1,4 +1,4 @@
-from PySide6.QtWidgets import QWidget, QLabel, QVBoxLayout
+from PySide6.QtWidgets import QWidget, QLabel, QVBoxLayout, QTextEdit, QPushButton, QMessageBox
 
 # Les différentes naming convention
     
@@ -24,12 +24,22 @@ class MessageBoard(QWidget): # QWidget est la classe mère et MessageBoard héri
         layout.addWidget(label)
 
         # add QTextEdit
+        self.text = QTextEdit()
+        self.text.setPlaceholderText("Enter a message...")
+        layout.addWidget(self.text)
 
         # add QPushButton
+        self.button = QPushButton("Show")
+        layout.addWidget(self.button)
+        self.button.clicked.connect(self.on_click)
 
     def on_click(self):
         print("on click called")
+
+        message = self.text.toPlainText()
+
         # add QMesageBox
+        QMessageBox.warning(self, "Warning", message)
 
 def main():
     global widget
