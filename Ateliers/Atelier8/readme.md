@@ -60,7 +60,7 @@ Installation :
 
 // Vous pouvez placer l'icon ailleurs si vous préfeéez
 
-2. Faites un clic droit sur l'icon par défaut de votre nouvel outil
+2. Dans maya, faites un clic droit sur l'icon par défaut de votre nouvel outil
 
     2.1 - > Cliquez "edit"
 
