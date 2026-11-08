@@ -72,7 +72,7 @@ Installation :
 
     3.3 -> Utilisez l'option "rename" pour donnez un nom à votre outil (ex: message board)
 
-    3.4 -> Dans la section "icons preview", trouvez "icon name"
+    3.4 -> Dans la section en dessous, trouvez "icon name"
 
     3.5 -> Appuyer sur le symbole de dossier
 
