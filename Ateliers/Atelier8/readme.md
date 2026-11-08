@@ -40,7 +40,7 @@ Installation :
 
 5. Sélectionnez le code dans le "script editor" (ctrl +a)
 
-    5.1 -> faites un clic droit soutenu sur le code
+    5.1 -> faites un clic gauche soutenu sur le code
 
     5.2 -> Glissez le vers votre shelf
 
