@@ -20,6 +20,8 @@ Installation :
  
     3.2 -> Cliquez "ok"
 
+** Vous avez maintenant votre propre shelf pour mettre vos outils
+
 
 
 // Ajouter vos outils dans votre shelf
@@ -32,7 +34,7 @@ Installation :
 
 2. Dans l'onglet "script editor", selectionnez "python"
 
-3. Copiez le code fourni dans le pichier "application.py" (ctrl + a -> ctrl + c)
+3. Copiez le code fourni dans le fichier "application.py" (ctrl + a -> ctrl + c)
 
 4. Collez le code dans l'onglet "python" du script editor (ctrl + v)
 
