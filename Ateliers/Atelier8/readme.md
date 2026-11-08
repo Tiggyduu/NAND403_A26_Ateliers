@@ -29,9 +29,11 @@ Installation :
 
 4. Collez le code dans l'onglet "python" du script editor (ctrl + v)
 
-5. Faites un clic droit soutenu sur le code dans le "script editor" et glissez le vers votre shelf
+5. Sélectionnez le code dans le "script editor" (ctrl +a)
+    5.1 -> faites un clic droit soutenu sur le code
+    5.2 -> Glissez le vers votre shelf
 
-6. Une fenêtre "save script to shelf as typee" s'ouvrira
+6. Une fenêtre "save script to shelf as type" s'ouvrira
     6.1 -> Sélectionnez "python"
 
 ** Votre outil est maintenant fonctionnel
